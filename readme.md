@@ -1,1 +1,1 @@
-Repository for helping vector tiles
+Repository for holding vector tiles
